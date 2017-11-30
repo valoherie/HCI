@@ -1,4 +1,4 @@
-# HCI
+# HCI TEAM 16
 Source code for HCI AX
 
 Leong Kah Hui Sandy (2287580L),
